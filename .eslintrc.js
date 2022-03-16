@@ -19,11 +19,8 @@ module.exports = {
       {
         singleQuote: true,
         semi: false,
+        endOfLine: 'auto',
       },
-    ],
-    'linebreak-style': [
-      'error',
-      process.platform === 'win32' ? 'windows' : 'unix',
     ],
   },
 }
