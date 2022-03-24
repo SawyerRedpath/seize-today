@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "soyboy321",
+      "email": "soyboy321@gmail.com",
+      "firstName": "Sawyer"
+    }
+  ],
+  "waters": [
+    {
+      "id": 1,
+      "userid": 1,
+      "sizeInMl": 1000,
+      "date": "2022-03-23T00:22:56.093Z"
+    },
+    {
+      "id": 2,
+      "userid": 1,
+      "sizeInMl": 1000,
+      "count": 1,
+      "date": "2022-03-23T00:38:56.093Z"
+    }
+  ],
+  "pomodoros": [
+    {
+      "id": 1,
+      "userid": 1,
+      "minutesDuration": 25,
+      "completed": true,
+      "count": 2,
+      "date": "2022-03-16"
+    }
+  ],
+  "journals": [
+    {
+      "id": 1,
+      "userid": 1,
+      "content": "Today it is raining which is having a negative effect on my mood, I hate the rain. However I am looking forward to my vacation in April to visit my family. I am having a productive morning which is making me feel better, although I wish it were warmer",
+      "mood": 6,
+      "date": "2022-03-16"
+    }
+  ]
+}
